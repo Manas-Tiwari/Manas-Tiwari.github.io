@@ -71,13 +71,13 @@ a:hover {
 
 .btn {
     padding: 10px 10px;
-    border: 3px solid #7b2cbf;
+    border: 3px solid #023e8a;
     border-radius: 12px;
-    background-color: #fde2e4;
+    background-color: #005f73;
 }
 
 .btn:hover {
-    background-color: #fff0f3;
+    background-color: #7b2cbf;
     cursor: pointer;
 }
 
