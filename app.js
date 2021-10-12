@@ -27,6 +27,6 @@ dadJokes().catch((e) => {
 });
 
 btn.addEventListener('click', () => {
-	divJoke.innerText = '';
+	divJoke.innerText = ' ';
 	dadJokes();
 });
