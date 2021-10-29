@@ -4,4 +4,4 @@
 
 <link>https://manas-tiwari.github.io/</link>
 
-*Under development, button needs to be fixed.*
+*Under development, button needs to be worked upon.*
